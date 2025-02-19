@@ -12,7 +12,7 @@ public class operaciones {
 	 /* 
      * Este método suma dos números racionales: 2/3 y 5/4, mostrando por pantalla el resultado
      *
-     */
+     */ 
 
     public static void n_racional_suma() {
          
