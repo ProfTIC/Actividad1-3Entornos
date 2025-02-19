@@ -48,7 +48,7 @@ public class operaciones {
         
         int num_b = 5;
         
-        int den_a = 3;
+        int den_a = 3; 
         
         int den_b = 4; 
         
